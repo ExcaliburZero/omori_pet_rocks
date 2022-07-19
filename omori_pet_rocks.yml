@@ -1,0 +1,9 @@
+name: omori_pet_rocks
+dependencies:
+  - python=3
+  - pip
+  - pip:
+      - pandas
+      - scipy
+      - plotnine
+      - jupyterlab
